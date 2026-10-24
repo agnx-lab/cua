@@ -1,0 +1,10 @@
+{
+  "appId": "cua",
+  "installState": "installed",
+  "launchMode": "packaged",
+  "source": {
+    "kind": "github",
+    "url": "https://github.com/trycua/cua"
+  },
+  "updatedAt": "2026-10-19T21:05:57.733Z"
+}
